@@ -1,0 +1,93 @@
+//(1)
+
+https://leetcode.com/problems/two-sum/#:~:text=You%20may%20assume,in%20any%20order.
+
+//myCode
+
+      const nums = (data)
+           twoSum.forEach(function(nums, i){
+           let sum = nums[0] + nums[1]
+           });
+return sum
+}
+
+// (2) 
+
+https://leetcode.com/problems/container-with-most-water/#:~:text=that%20the%20two-,endpoints,-of%20the%20i
+
+// myCode
+
+function maximumWater(container){
+        Math.max(maximumWater)
+    let maximumAmnt = [...maximumWater]
+    return Math.max
+    });
+
+//(3)
+
+https://leetcode.com/problems/3sum/#:~:text=that%20the%20solution-,set,-must%20not%20contain
+
+// myCode
+
+function valuesOfArr(nums1, nums2, nums3){
+    let firstInteger = nums1.charAt(0)
+    let secondInteger = nums2.charAt(1)
+    let thirdInteger = nums3.charAt(2)
+
+    return `$[firstInteger]`\n`$[secondInteger]`\n`$[thirdInteger]
+});
+
+
+// (4)
+
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/#:~:text=in%20the%20first-,part,-of%20the%20array
+
+//myCode
+
+
+const intarrynums = [data]
+   data.sort(function(number, index){
+      let newArr = [...intarrynums]
+       return a-b
+   }) 
+   
+      function removeDuplicate(newArr){
+          let getOutDup = newArr.filter(function(item, index){
+               (item, index) => newArr.indexOf(item) === index
+              return getOutDup
+          })
+      }
+
+
+// (5)
+
+https://leetcode.com/problems/two-sum/#:~:text=such%20that%20they-,add,-up%20to%20target
+
+// myCode
+
+var searchInsert = [data]{
+    searchInsert.sort(function(int, val){
+        let result = a - b
+        
+        function ifFound(result){
+            result.chartAt(index)
+            if(result.chartAt(index) === (index)
+                return the index
+            } else {
+                return index where it would be...
+
+
+ // (6)
+
+https://leetcode.com/problems/plus-one/#:~:text=You%20are%20given,of%20digits.
+
+// myCode
+
+var largeInt = [nums]
+let largeNums = largeInt.length-1
+function plusOne(arr1){
+    let result = largeInt.length-1 + 1
+    return result
+    })
+
+//(7)
